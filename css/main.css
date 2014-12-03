@@ -370,8 +370,9 @@ p { line-height: 1.333em; }
 }
 
 #slide-7 h1{
-  color: black;
+  color: #870e18;
   margin-bottom: 0px;
+  font-size: 80px;
 }
 
 #slide-7 .caption {
@@ -471,6 +472,10 @@ p { line-height: 1.333em; }
 
 .md-close:hover {
   background-color: #3b5f5b;
+}
+
+.signatures {
+  margin-top: -50px;
 }
 
 #helper {
