@@ -324,6 +324,7 @@ p { line-height: 1.333em; }
 .type-slide .detail-body {
   text-align: left;
   padding-top: 100px;
+  font-weight: 300;
 }
 
 .type-slide .type-details {
